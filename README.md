@@ -1,2 +1,1 @@
-# mkdocs_helloworld
-Testing MkDocs + gh-pages combination
+[test](http://tomaszgolan.github.io/mkdocs_helloworld/)
