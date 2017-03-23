@@ -1,0 +1,7 @@
+site_name: Hello World
+pages:
+    - Home: index.md
+    - Installation: install.md
+    - More: more.md
+theme: readthedocs
+
